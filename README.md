@@ -11,5 +11,4 @@ Modules Completed:
 4. ReadTime: https://github.com/vikasgargvi/ReadingTextTime
 5. Blog Structure: https://github.com/MridulaGarg/DB_Project
 6. Recommender System:https://github.com/vishaljain04/autoTagging
-
- 
+7. Ranking Post: https://github.com/gaurav476/Ranking-Post
